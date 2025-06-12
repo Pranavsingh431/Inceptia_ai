@@ -1,0 +1,106 @@
+# Environment Variables and Secrets
+.env
+.env.local
+.env.development
+.env.production
+*.key
+*.pem
+
+# API Keys and Configuration
+config_local.py
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# React Build
+build/
+.cache/
+
+# Logs
+logs/
+*.log
+log/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+startupguru_db/
+chroma_db/
+*.db/
+
+# Data Files (if you want to keep them local)
+data/scraped/
+data/processed/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json 
