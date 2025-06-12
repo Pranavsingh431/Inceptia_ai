@@ -16,7 +16,7 @@ app = FastAPI(title="Startup India Chatbot API", version="1.0.0")
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*", "https://inceptiaai-production.up.railway.app", "http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

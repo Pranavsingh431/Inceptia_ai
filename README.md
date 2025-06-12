@@ -2,7 +2,7 @@
 
 > **Production-quality AI chatbot** providing accurate, real-time information about Startup India policies, funding, registration, and benefits.
 
-![Inceptia AI](https://via.placeholder.com/800x400/667eea/ffffff?text=StartupGuru+Demo)
+![StartupGuru Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=StartupGuru+Demo)
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
@@ -382,3 +382,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ChromaDB**: Vector database solution
 - **Streamlit**: Beautiful web app framework
 
+## 📞 Support
+
+- **Issues**: GitHub Issues
+- **Documentation**: This README + API docs
+- **Community**: [Link to community/discord if available]
+
+---
+
+<div align="center">
+
+**Built with ❤️ for the Startup India ecosystem**
+
+[![Star this repo](https://img.shields.io/github/stars/username/startupguru?style=social)](https://github.com/username/startupguru)
+[![Follow us](https://img.shields.io/twitter/follow/startupguru?style=social)](https://twitter.com/startupguru)
+
+</div>
