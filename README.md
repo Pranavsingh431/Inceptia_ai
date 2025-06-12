@@ -2,7 +2,7 @@
 
 > **Production-quality AI chatbot** providing accurate, real-time information about Startup India policies, funding, registration, and benefits.
 
-![StartupGuru Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=StartupGuru+Demo)
+![Inceptia AI](https://via.placeholder.com/800x400/667eea/ffffff?text=StartupGuru+Demo)
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
