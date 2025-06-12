@@ -40,7 +40,7 @@ const App = () => {
 
     try {
       // Call your existing backend API
-      const response = await fetch('http://localhost:8000/chat', {
+      const response = await fetch('https://inceptiaai-production.up.railway.app/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
